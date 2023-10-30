@@ -1,0 +1,173 @@
+#general {
+    display: flex;
+    padding-top: 20px;
+}
+
+
+
+
+
+#div1 {
+    text-align: center;
+    background-color: rgb(229, 232, 234);
+    width: 30%;
+    margin: auto;
+    padding: 25px;
+    /* display: flex; */
+    justify-content: center;
+    /* align-items: center; */
+}
+
+#bien {
+
+    text-align: left;
+
+}
+
+#message {
+    text-align: left;
+}
+
+/* #div2 {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+#div2 label {
+    flex-shrink: 0;
+    margin-right: 10px;
+} */
+
+/* #div2 {
+    display: flex;
+    flex: 1;
+    min-width: 30%;
+} */
+
+#ins2 {
+
+    color: #f4f8fb;
+    bottom: 10px;
+    right: 10px;
+    background-color: blue;
+    float: right;
+    margin-bottom: 20px;
+    ;
+}
+
+#promo {
+    text-align: left;
+    margin-top: 20px;
+}
+
+#div2 {
+
+    display: flex;
+    justify-content: space-between;
+    /* display: inline-block;
+    text-align: left;
+    margin-right: 5px;
+    margin-bottom: 10px; */
+}
+
+/* #div3 {
+    display: flex;
+    justify-content: space-between;
+
+} */
+
+.tel {
+    width: 100%;
+}
+
+.telephone-input {
+    display: flex;
+    align-items: center;
+}
+
+.flag-icon {
+    font-size: 1.2em;
+    margin-right: 5px;
+}
+
+.indicatif {
+    font-weight: bold;
+}
+
+
+
+input {
+
+    text-align: left;
+    display: block;
+
+}
+
+label {
+    text-align: left;
+    display: block;
+}
+
+
+
+
+#niveau {
+    text-align: center;
+    background-color: rgb(229, 232, 234);
+    width: 20%;
+    margin: auto;
+    padding: 25px;
+    /* display: flex; */
+    justify-content: center;
+    /* align-items: center; */
+}
+
+#ins {
+    text-align: left;
+}
+
+#votre {
+    text-align: left;
+}
+
+#facebook {
+    background-color: blue;
+    height: 25px;
+
+}
+
+#mess {
+    color: white;
+
+}
+
+#ins1 {
+    background-color: blue;
+    color: white;
+    float: right;
+}
+
+#user {
+    width: 400px;
+    color: white;
+    padding-left: 20px;
+}
+
+#us {
+    background-color: blue;
+    color: white;
+    height: 40px;
+    font-size: 17px;
+    text-align: center;
+    border-radius: 10px;
+    width: 80%;
+}
+
+
+#deconnect {
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    border-radius: 5%;
+}
